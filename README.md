@@ -3,3 +3,4 @@ Repositorio de la materia de programación para la ciencia de datos del semestre
 ##Objetivos personales del curso
 //Aprender bastante sobre ciencia de datos asi como sobre programacion
 //Saber utilizar git y github para poder desarollarme profesionalmente
+//Desarollarme mas academicamente
