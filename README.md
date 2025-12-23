@@ -1,6 +1,14 @@
-Repositorio de la materia de programación para la ciencia de datos del semestre 2026 Miembros del equipo: Emiliano Ortiz Juarez Arturo Saenz Buttanda Ricardo Hernandez Espinoza
+# Programación para la Ciencia de Datos  
+**Semestre 2026**
 
-##Objetivos personales del curso cambiado rama docs junto con el editado en main
-//Aprender bastante sobre ciencia de datos asi como sobre programacion
-//Saber utilizar git y github para poder desarollarme profesionalmente
-//Desarollarme mas academicamente
+Repositorio correspondiente a la materia **Programación para la Ciencia de Datos**.
+
+## Miembros del equipo
+- Hernández Espinoza Ricardo  
+- Ortiz Juárez Emiliano  
+- Sáenz Buttanda Arturo  
+
+## Objetivos personales del curso
+- Aprender de forma sólida los fundamentos de **ciencia de datos** y **programación**.  
+- Utilizar correctamente **Git y GitHub** para el desarrollo profesional.  
+- Fortalecer el **desarrollo académico** y las buenas prácticas de programación.
