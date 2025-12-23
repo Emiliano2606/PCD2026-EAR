@@ -4,9 +4,9 @@
 Repositorio correspondiente a la materia **Programación para la Ciencia de Datos**.
 
 ## Miembros del equipo
-- Emiliano Ortiz Juárez  
-- Arturo Sáenz Buttanda  
-- Ricardo Hernández Espinoza  
+- Hernández Espinoza Ricardo  
+- Ortiz Juárez Emiliano  
+- Sáenz Buttanda Arturo  
 
 ## Objetivos personales del curso
 - Aprender de forma sólida los fundamentos de **ciencia de datos** y **programación**.  
